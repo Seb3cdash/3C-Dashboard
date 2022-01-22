@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 #### All plans
 - New deals column with price deviation from Base Order
+- New deals column with % from average buy price (DCA) to Take Profit price
 - New indicator on main table when bots DCA strategies are over (max. SO reached) and current price outside max deviation %
   
 #### Silver+ plans
