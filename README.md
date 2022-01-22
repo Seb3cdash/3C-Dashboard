@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
  
  
-## [Unreleased] - Expected 2022-01-23
+## [2.1.22] - 2022-01-22
  
 ### Added
 #### All plans
@@ -23,7 +23,6 @@ All notable changes to this project will be documented in this file.
   - Bulk "Cancel / delete" open orders on Binance Spot, Binance Futures & FTX Futures
  
 ### Changed
-
 - New TradingView chart widget including coin technical analysis
 - Get Exchanges data from user streams (Binance & FTX)
 - Load-balancing of exchanges REST API requests over a cluster of cloud proxies to avoid rate limits
@@ -48,5 +47,4 @@ All notable changes to this project will be documented in this file.
 This is the first commercial release of 3C Dashboard
    
 ### Added
- 
 - [CoinPayments](https://coinpayments.net)
