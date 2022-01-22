@@ -18,13 +18,13 @@ All notable changes to this project will be documented in this file.
 - Live data & direct actions on Exchanges
   - List of opened positions on Binance Futures & FTX Futures
   - Orderbooks from Binance Spot, Binance Futures & FTX Futures
-  - Bulk "Close at market price" option on Binance Futures & FTX positions
-  - Bulk "Cancel / delete" any open order from Binance Spot, Binance Futures & FTX Futures orderbooks
+  - Bulk "Close at market price" positions on Binance Futures & FTX positions
+  - Bulk "Cancel / delete" open orders on Binance Spot, Binance Futures & FTX Futures
  
 ### Changed
 
 - New TradingView chart widget including coin technical analysis
-- Get Exchanges data from User streams (Binance & FTX)
+- Get Exchanges data from user streams (Binance & FTX)
 - Load-balancing of exchanges REST API requests over a cluster of cloud proxies to avoid rate limits
 - One time email code for password reset if MFA has not been set
  
@@ -44,7 +44,7 @@ All notable changes to this project will be documented in this file.
  
 ## [2.1.2] - 2022-01-02
  
-This is the first commercial release of 3C Dashboard.
+This is the first commercial release of 3C Dashboard
    
 ### Added
  
