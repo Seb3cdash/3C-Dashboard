@@ -1,7 +1,21 @@
 # [3C Dashboard](https://www.3cdashboard.com) Change Log
 All notable changes to this project will be documented in this file.
 
+ ## [2.2.13] - 2022-02-13
  
+### Added
+- A "clear columns filters" button has been added (bots tab)
+- Maximum price to open deal column (bots tab)
+- Minimum price to open deal column (bots tab)
+ 
+### Changed
+- "Created at" values are now converted to localtime
+ 
+### Fixed
+- "Created at" sorting issue fixed (deals & bots tables)
+- "Completed" deals sorting issue fixed (bots table)
+- Active "Deals" sorting issue fixed (bots table)
+
  
 ## [2.1.22] - 2022-01-22
  
