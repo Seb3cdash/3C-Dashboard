@@ -1,7 +1,22 @@
 # [3C Dashboard](https://www.3cdashboard.com) Change Log
 All notable changes to this project will be documented in this file.
 
- ## [2.2.13] - 2022-02-13
+
+## [2.2.14] - 2022-02-14
+ 
+### Added
+- Click-to-copy Bot ID
+- Copy & Paste pairs in bots settings
+- Add x_ALL pairs buttons
+ 
+### Changed
+- Pairs are now validated against available market pairs (bots edit / copy)
+
+### Fixed
+- Deals selection is cleared when a new deal is opened
+
+
+## [2.2.13] - 2022-02-13
  
 ### Added
 - A "clear columns filters" button has been added (bots tab)
@@ -15,6 +30,7 @@ All notable changes to this project will be documented in this file.
 - "Created at" sorting issue fixed (deals & bots tables)
 - "Completed" deals sorting issue fixed (bots table)
 - Active "Deals" sorting issue fixed (bots table)
+- System status URL missing
 
  
 ## [2.1.22] - 2022-01-22
