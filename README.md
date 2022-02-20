@@ -13,9 +13,6 @@ All notable changes to this project will be documented in this file.
 - Deals table button have been optimized by using drodown menus
 - All table fields related to date are now displayed in localtime (logs, Positions & Orders)
 
-### Fixed
-
-
 
 ## [2.2.14] - 2022-02-14
  
