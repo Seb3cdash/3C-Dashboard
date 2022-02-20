@@ -1,6 +1,21 @@
 # [3C Dashboard](https://www.3cdashboard.com) Change Log
 All notable changes to this project will be documented in this file.
 
+## [2.2.20] - 2022-02-20
+
+### Added
+- Option to show/hide errors notifications
+- Option to show/hide paper account notifications
+- Option to show/hide Smart trades, Spot deals and Futures deals independently
+- Add funds "Unit size" field
+ 
+### Changed
+- Deals table button have been optimized by using drodown menus
+- All table fields related to date are now displayed in localtime (logs, Positions & Orders)
+
+### Fixed
+
+
 
 ## [2.2.14] - 2022-02-14
  
