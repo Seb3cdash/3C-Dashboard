@@ -1,6 +1,25 @@
 # [3C Dashboard](https://www.3cdashboard.com) Change Log
 All notable changes to this project will be documented in this file.
 
+
+## [2.4.3] - 2022-04-03
+
+### Added
+- Detailed error messages returned by 3commas
+- SL % column (deals & smart trades)
+- Bot# column
+- Enable/Disable Paper Account option in dropdown menu
+
+### Changed
+
+### Fixed
+- Slow loading of accounts at the beginning of the session
+- Undefined account in the Exchanges tab
+- Exchanges statistics graphs were not using UTC dates
+- Max active deals error message while updating bots
+- Cleanup of unexisting pairs failure
+
+
 ## [2.2.20] - 2022-02-20
 
 ### Added
