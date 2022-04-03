@@ -10,8 +10,6 @@ All notable changes to this project will be documented in this file.
 - Bot# column
 - Enable/Disable Paper Account option in dropdown menu
 
-### Changed
-
 ### Fixed
 - Slow loading of accounts at the beginning of the session
 - Undefined account in the Exchanges tab
